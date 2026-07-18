@@ -25,3 +25,13 @@ This Privacy Policy may be updated from time to time. Any changes will be posted
 If you have any questions about this Privacy Policy, you can contact the developer at:
 
 **Email:** monstrosity2018@gmail.com
+
+        ## Support
+
+Need help with Monstrosity World? Reach out to us at [your email here].
+
+**FAQs**
+- **The app won't load / crashes on startup** — try force-quitting and reopening. If it persists, email us with your device model and iOS version.
+- **I found a bug** — email us a description and, if possible, a screenshot.
+
+Sent from my iPad
